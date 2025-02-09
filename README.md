@@ -1,4 +1,4 @@
-# NLP_Projects
+# MoveWiseAI
 # 🧠 NLP-Driven Logistics Tracking System
 
 This project integrates **Natural Language Processing (NLP)** with **SQL** to create a seamless logistics tracking system. Users can ask **natural language queries** (e.g., *"How long did Article 1 stay at Sydney?"*), and the system **automatically converts** them into **SQL queries** to fetch results.
